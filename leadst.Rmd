@@ -1,0 +1,19 @@
+---
+title: 
+output: html_document
+---
+
+![](images/leadst.png)
+
+## Plenty of leads Plenty of customers
+## We give you access to proven leads, companies and people that need what you sell. 
+
+![The Southern French Alps.](images/mountains.png)
+
+# About us
+## We (Nick & Franck) are brothers (in-law) with leads for you that make selling easy thanks to software and data analytics.
+
+![](images/tuxs.png)
+
+# Get in touch 
+## Contact us at nickwolfe@theleadstorm.com or franckbrych@theleadstorm.com
